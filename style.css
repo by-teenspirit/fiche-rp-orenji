@@ -32,6 +32,9 @@
 
 .name-cita-ora {
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
 
 .name-ora {
@@ -164,7 +167,7 @@
 .contain-lien {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 20px;
 }
 
 .name-relation {
